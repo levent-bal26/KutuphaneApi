@@ -1,3 +1,4 @@
+namespace KutuphaneApi.Dtos.Yazar;
 public class YazarReadDto
 {
     public int Id { get; set; }

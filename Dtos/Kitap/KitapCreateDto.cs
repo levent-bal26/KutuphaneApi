@@ -1,3 +1,4 @@
+namespace KutuphaneApi.Dtos.Kitap;
 public class KitapCreateDto
 {
     public string IsbnNo { get; set; } = null!;

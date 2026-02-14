@@ -1,3 +1,4 @@
+namespace KutuphaneApi.Dtos.Islem;
 public class IslemReadDto
 {
     public int Id { get; set; }

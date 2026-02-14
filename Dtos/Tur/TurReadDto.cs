@@ -1,3 +1,5 @@
+namespace KutuphaneApi.Dtos.Tur;
+
 public class TurReadDto
 {
     public int Id { get; set; }

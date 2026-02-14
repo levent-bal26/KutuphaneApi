@@ -1,3 +1,4 @@
+namespace KutuphaneApi.Dtos.Kitap;
 public class KitapReadDto
 {
     public int Id { get; set; }

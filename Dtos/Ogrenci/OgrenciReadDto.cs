@@ -1,3 +1,4 @@
+namespace KutuphaneApi.Dtos.Ogrenci;
 public class OgrenciReadDto
 {
     public int Id { get; set; }

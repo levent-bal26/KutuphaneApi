@@ -1,3 +1,4 @@
+namespace KutuphaneApi.Dtos.Ogrenci;
 public class OgrenciCreateDto
 {
     public string OgrNo { get; set; } = null!;

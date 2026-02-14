@@ -23,3 +23,6 @@ app.UseAuthorization();
 // Controller route'larını devreye alır (EN KRİTİK SATIR) 
 app.MapControllers(); 
 app.Run();
+
+
+
